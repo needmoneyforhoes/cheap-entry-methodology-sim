@@ -18,7 +18,7 @@ import statistics
 from collections import defaultdict
 
 
-PATH_PATTERN = '/home/polybot/polymarket-bot/data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
+PATH_PATTERN = './data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
 MIN_CD = 15
 
 # 4 statistically-significant strategies (p_perm < 0.05) with known EV

@@ -17,7 +17,7 @@ import random
 from collections import defaultdict
 
 
-PATH_PATTERN = '/home/polybot/polymarket-bot/data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
+PATH_PATTERN = './data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
 MIN_CD = 15
 HALT_THRESH = 5.00
 
