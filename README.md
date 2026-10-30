@@ -33,3 +33,8 @@ python3 sim_methodology.py
 ## Data
 
 Logs are loaded from the hard-coded glob `$DATA_DIR/quant_bots_logs_replay/race_test_btc-updown-5m-*.log`. Not committed (see `.gitignore`); fetch from the private `polymarket-data` repo and place at that path or edit `PATH_PATTERN` at the top of each file. Up to 500 logs are sampled (seeded) per run.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/cheap-entry-methodology-sim/issues/new). Pull requests are welcome too.
